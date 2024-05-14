@@ -1,0 +1,137 @@
+Privacy
+
+This Privacy Notice explains the owner and operator of the mobile apps, will collect, hold and use your personal information.  This is an important responsibility which we take very seriously. We aim to ensure that personal information is protected and is always used fairly and transparently. We may update this Privacy Notice from time to time. We recommend that you check this page regularly to keep up to date.
+
+
+The application does not automatically collect any personal information. We do not show ads or use any analytic system that would require sending information from the application to our servers or third party servers.
+If you contact us by email (directly or from within the application), we may collect your email and any information you sent us. This will be used to reply to your query.
+
+1. Consent to Policy
+
+By installing and using the application, you consent to this Privacy Policy and the collection, use and sharing of the personal data described in this Policy. If you do not agree, do not install the application or use the application.
+
+If you are under the age of 16, you will not be able to use the applications and services.
+
+Information and Data we collect from you
+
+We collect and process the following personal data and information when you using our applications and services:
+
+Data automatically collected from applications
+
+your device type and model, manufacturer, operating system platform and version, general location (region, country, city, etc), application version, start and end of advertisement browsing, game play status (stage start, end, and operation information)
+
+IP address and Advertising ID (if you use Apple devices, IDFA / if you use Android devices, AAID)
+
+Information you provide when contacting us
+
+Contact information such as your name and email address, and any other information we need to provide support
+
+Data obtained from advertising partners
+
+We may obtain personal information about you from third-party advertising partners, depending on the permission you give to the partner.
+
+2.Collecting of special categories of personal data
+
+We do not knowingly collect any special categories of personal data (personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation) or personal data relating to criminal convictions and offences or related security measures when providing applications and services.Z
+
+3. Scope of Policy
+
+The scope of this Privacy Policy is limited to the personal data collected by you using our applications and services.
+
+This application may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that we have no control and responsibility for the content and Privacy Policies of third-party sites or services.
+
+Purpose and Legal basis for use of information
+
+We collect and use your data and information for the following purposes.
+
+Provision and improvement of game services
+
+We use your personal data to distribute applications and provide gaming services, and to improve our services.
+
+In order to properly provide game services, it is necessary to collect, record and use information such as game progress.
+
+We use your information to analyze your personal data and to correct game glitches, improve stability, and develop new services to provide you with a better experience.
+
+We also use the information when sending notifications, including app updates, support and management messages.
+
+4.Security
+
+We will take all reasonable technical and organisational precautions to prevent the loss misuse or alteration of your personal information.  For example, our databases contain encrypted and anonymised information only, are password protected and limited to essential employees only (such as Kwalee management or employees whose main role requires system access).
+
+Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+We use your personal data to respond to your inquiries and provide customer support.
+
+Legal obligation
+
+We use your information where necessary to comply with our legal obligations.
+
+We collect and use personal data of users subject to GDPR or the equivalents on the following legal basis:
+
+We use your personal data to analyze, track and prevent fraud, notify, cross-promote and advertise to provide you with free or low-cost services, improve our services and improve your data Special attention can be paid to the right to protection.
+
+5. Sharing your Information
+
+We may share the your information with partners for the purposes described above.
+
+The privacy policies of each partner are listed in the "Partner List" section.
+
+We may disclose your information in response to law, legal process, lawsuits, and the demands of public and governmental authorities inside and outside your country of residence.
+
+We will not notify you of such disclosures unless required by law.
+
+6. Security of personal information
+
+We will retain your personal information only for as long as necessary to fulfil the purposes for which we collected it.  When deciding the period for which we need to retain your information, we also consider the amount, nature and sensitivity of the information, the risk of harm from unauthorised use or disclosure of the information, and any legal requirements which apply. Typically, we will retain your information for a period of two years from the date on which it was collected or, if later, from the date on which you last used Our Apps. If you have consented to us using your information for marketing purposes, we will retain it until you tell us that you withdraw your consent. We may retain information for a longer period in the event of a complaint or if we reasonably believe there is a prospect of a legal dispute or regulatory investigation to which the information is likely to be relevant.
+
+In order to prevent the loss, destruction, falsification, damage, leakage, etc. of personal information, we will introduce appropriate and reasonable level of security measures to protect personal information. When outsourcing the handling of personal information, we strongly urge you to comply with applicable personal information protection laws and work to maintain the confidentiality of information.
+
+We always make every effort to protect your personal information, but we do not guarantee or represent that your information is fully protected.
+
+7. Rights of users under GDPR or the equivalents
+
+We have put in place appropriate security measures to prevent your information from being accidentally lost, used or accessed without authorisation, altered or disclosed.  In addition, we limit access to your information to those employees who have a business need to know (such as our customer service personnel and technical staff). They will deal with your information only on our instructions, and they are subject to a strict duty of confidentiality. We have also put in place procedures to deal with any suspected data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. 
+
+Right to withdraw consent
+
+You have the right to withdraw your consent at any time in accordance with Article 7(3), paragraph 3 of the GDPR.
+
+If you wish to withdraw your consent, please contact us at the address specified in this policy to withdraw your consent. The withdrawal of this consent cannot affect the legality of the treatment based on the consent before the withdrawal.
+
+If you withdraw your consent, you will not be able to continue using the applications and services.
+
+Right of access and rectification
+
+You have the right to receive confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data in accordance with Article 15 of the GDPR.
+
+You also have the right to obtain from us without undue delay the rectification of inaccurate personal data concerning you in accordance with Article 16 of the GDPR.
+
+Right of erasure and restriction of processing
+
+In accordance with Article 17 of the GDPR, you shall have the right to obtain from us the erasure of personal data concerning you without undue delay.
+
+You also have the right to restrict the handling of personal data in accordance with Article 18 of the GDPR.
+
+However, if your personal data is legitimately used to provide our services and for other purposes, we may reject your request or ask you to postpone the response.
+
+Right to data portability
+
+In accordance with Article 20 of the GDPR, you shall have the right to receive the personal data which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from us to which the personal data have been provided.
+
+And you have the right to have the personal data transmitted directly from us to another, where technically feasible.
+
+Right to object
+
+in accordance with Article 21 of the GDPR, you shall have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you.
+
+Right to lodge a complaint with a supervisory authority
+
+In accordance with Article 77 of the GDPR, without prejudice to any other administrative or judicial remedy, you shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringment if you considers that the processing of personal data relating to you infringes this Regulation.
+
+Transferring of your personal data
+
+We may transfer and process your personal data from your country or region of residence to Japan and other countries around the world. We may share your information with international organizations as partner. Please note that these countries and jurisdictions may not have the same data protection laws as your country.
+
+8. Contact
+
+Emailing address: kuujjuaq9436417@hotmail.com
